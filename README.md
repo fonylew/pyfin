@@ -9,4 +9,4 @@ powered by googlefinance
 
 
 
-note: another google finance !(url)[http://finance.google.com/finance/info?client=infoquoteall&q=SET:aot] that return JSON
+note: another google finance [url](http://finance.google.com/finance/info?client=infoquoteall&q=SET:aot) that return JSON
